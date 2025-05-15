@@ -1,0 +1,4 @@
+name: remotecodeinjector
+version: '1.0'
+main: me.ghostgeorge.remotecodeinjector.Remotecodeinjector
+api-version: '1.21'

@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="remotecodeinjector:jar">
+    <output-path>$USER_HOME$/Desktop/Paper server/plugins</output-path>
+    <root id="archive" name="remotecodeinjector.jar">
+      <element id="module-output" name="remotecodeinjector" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-runtime/24.2.1/truffle-runtime-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/js/js-language/24.2.1/js-language-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/regex/regex/24.2.1/regex-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/polyglot/polyglot/23.1.2/polyglot-23.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/nativebridge/24.2.1/nativebridge-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/graal-sdk/23.1.2/graal-sdk-23.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-compiler/24.2.1/truffle-compiler-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-enterprise/24.2.1/truffle-enterprise-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/truffle/truffle-api/24.2.1/truffle-api-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/shadowed/icu4j/24.2.1/icu4j-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/collections/23.1.2/collections-23.1.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.graalvm.js:js:24.2.1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/jniutils/24.2.1/jniutils-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/nativeimage/23.1.2/nativeimage-23.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/sdk/word/23.1.2/word-23.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/shadowed/xz/24.2.1/xz-24.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/graalvm/js/js-scriptengine/23.1.2/js-scriptengine-23.1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
